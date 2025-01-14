@@ -9,6 +9,6 @@
 ### Minhas tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-fff?style=for-the-badge&logo=academia&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
