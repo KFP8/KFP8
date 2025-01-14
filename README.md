@@ -5,3 +5,7 @@
 [![Currículo](https://img.shields.io/badge/currículo-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1sg5elw0KS1I6iKSckZvtdZ-iboFXNX6T/view?usp=sharing)
 
 📧 kfpereira15@gmail.com 
+
+### Minhas tecnologias
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
