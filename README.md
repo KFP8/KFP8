@@ -16,4 +16,8 @@
 
 ![scikit learn](https://img.shields.io/badge/scikit-learn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![Pandas](https://img.shields.io/badge/Pandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![Numpy](https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
