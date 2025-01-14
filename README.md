@@ -11,6 +11,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Data Science](https://img.shields.io/badge/DataScience-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)
+
+![Data Science](https://img.shields.io/badge/DataScience-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![scikit learn](https://img.shields.io/badge/scikitlearn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
