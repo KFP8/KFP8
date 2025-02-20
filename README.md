@@ -19,3 +19,9 @@ Profissional em início de carreira na área de análise de dados, com experiên
 ![Pandas](https://img.shields.io/badge/Pandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Numpy](https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![SQL](https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
