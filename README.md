@@ -31,3 +31,6 @@ Profissional em início de carreira na área de análise de dados. Com experiên
 ![Google Apps Script (JavaScript)](https://img.shields.io/badge/GoogleAppsScript-(JavaScript)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Git e GitHub)](https://img.shields.io/badge/Git-GitHub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Serviços em nuvem)](https://img.shields.io/badge/Google-Cloud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
